@@ -1,0 +1,57 @@
+Suite/Test/Step Name,Suite/Test/Step Name,Suite/Test/Step Name,Suite/Test/Step Name,Start time,End time,Duration,Status
+APBIE NM,Chrome 125.0.0.0,,,13-06-2024 14:49,13-06-2024 14:59,10m - 30.849s,FAILED
+,,,,,,,
+Test Cases/APBIE/Gallery,Chrome 125.0.0.0,,,13-06-2024 14:51,13-06-2024 14:52,52.140s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:51,13-06-2024 14:51,2.302s,PASSED
+"navigateToUrl(""https://bieap.apcfss.in/ErrorPageRedirection.do"")",Chrome 125.0.0.0,,,13-06-2024 14:51,13-06-2024 14:51,5.912s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/a_Gallery""))",Chrome 125.0.0.0,,,13-06-2024 14:51,13-06-2024 14:52,3.003s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/a_Gallery_lightbox""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,0.562s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/svg""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,0.538s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/svg""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,0.492s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/svg""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,0.540s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/svg""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,0.544s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/svg""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,0.513s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/svg""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,0.533s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/svg_1""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,0.559s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/div_Get in Touch""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,0.573s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/a_Gallery_lightbox_1""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,0.312s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/line""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,2.757s,PASSED
+"click(findTestObject(""Object Repository/Gallery ASS1/Page_BIE  Board of Intermediate Education, AP/a_Gallery_lightbox_1_2""))",Chrome 125.0.0.0,,,13-06-2024 14:52,13-06-2024 14:52,32.969s,FAILED
+,,,,,,,
+Test Cases/APBIE/Home,Chrome 125.0.0.0,,,13-06-2024 14:54,13-06-2024 14:55,43.975s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:54,13-06-2024 14:54,2.397s,PASSED
+"navigateToUrl(""https://bieap.apcfss.in/ErrorPageRedirection.do"")",Chrome 125.0.0.0,,,13-06-2024 14:54,13-06-2024 14:55,5.595s,PASSED
+"click(findTestObject(""Object Repository/HOME ASS1/Page_BIE  Board of Intermediate Education, AP/h4_COLLEGES""))",Chrome 125.0.0.0,,,13-06-2024 14:55,13-06-2024 14:55,35.959s,FAILED
+,,,,,,,
+Test Cases/APBIE/PressRelease,Chrome 125.0.0.0,,,13-06-2024 14:57,13-06-2024 14:58,45.019s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:57,13-06-2024 14:57,2.436s,PASSED
+"navigateToUrl(""https://bieap.apcfss.in/ErrorPageRedirection.do"")",Chrome 125.0.0.0,,,13-06-2024 14:57,13-06-2024 14:58,6.556s,PASSED
+"click(findTestObject(""Object Repository/PressRelase ASS1/Page_BIE  Board of Intermediate Education, AP/a_Press Release""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.377s,PASSED
+"switchToWindowTitle(""BIE | Board of Intermediate Education, AP"")",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.052s,PASSED
+"click(findTestObject(""Object Repository/PressRelase ASS1/Page_BIE  Board of Intermediate Education, AP/i_Extension of Due dates_fa fa-download fa-2x""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,35.575s,FAILED
+,,,,,,,
+Test Cases/APBIE/Students,Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:59,23.653s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,2.364s,PASSED
+"navigateToUrl(""https://bieap.apcfss.in/ErrorPageRedirection.do"")",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,6.446s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/a_Students""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.317s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/h4_Migration Certificate""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,3.031s,PASSED
+"setText(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/input_Enter Hall Ticket No_beanProperties(hNo)""), ""1024586741"")",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.690s,PASSED
+"setText(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/input_Date of Birth_beanProperties(dob)""), """")",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.553s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/input_Date of Birth_beanProperties(dob)""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.533s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/td_4""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.288s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/th_June 2024""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.516s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/th_2024""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.493s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/th_2020-2029""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.498s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/span_2000""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.511s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/span_2001""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.517s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/span_Jul""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.515s,PASSED
+"setText(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/input_Email-id_beanProperties(email)""), ""Rajamani24@gmail.com"")",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.833s,PASSED
+"setText(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/input_Enter Captcha_beanProperties(cap_code)""), ""WPN7S9"")",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.606s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/span_Get Data""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,2.796s,PASSED
+"click(findTestObject(""Object Repository/Students ASS1/Page_BIE  Board of Intermediate Education, AP/button_OK""))",Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:58,0.428s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 14:58,13-06-2024 14:59,1.607s,PASSED
+,,,,,,,
+Test Cases/APBIE/WhatsNew,Chrome 125.0.0.0,,,13-06-2024 14:59,13-06-2024 14:59,9.271s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:59,13-06-2024 14:59,2.359s,PASSED
+"navigateToUrl(""https://bieap.apcfss.in/ErrorPageRedirection.do"")",Chrome 125.0.0.0,,,13-06-2024 14:59,13-06-2024 14:59,6.464s,PASSED
+"click(findTestObject(""Object Repository/Whatsnew ASS1/Page_BIE  Board of Intermediate Education, AP/a_I.P.E Vocational Bridge Course Results of_3dd47e""))",Chrome 125.0.0.0,,,13-06-2024 14:59,13-06-2024 14:59,0.427s,FAILED
